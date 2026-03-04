@@ -196,7 +196,7 @@ export const METHODS: Method[] = [
       }
     ],
     imageUrls: [
-      'https://https://www.flickr.com/photos/204301853@N03/55127349967?q=80&w=800&auto=format&fit=crop',
+      'https://cdn.pixabay.com/photo/2024/01/24/22/22/knight-8530654_1280.jpg?q=80&w=800&auto=format&fit=crop',
       'https://images.unsplash.com/photo-1587654780291-39c9404d746b?q=80&w=800&auto=format&fit=crop',
       'https://images.unsplash.com/photo-1516627145497-ae6968895b74?q=80&w=800&auto=format&fit=crop'
     ]
