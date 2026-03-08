@@ -198,7 +198,7 @@ export const METHODS: Method[] = [
     imageUrls: [
       'https://cdn.pixabay.com/photo/2024/01/24/22/22/knight-8530654_1280.jpg?q=80&w=800&auto=format&fit=crop',
       'https://images.unsplash.com/photo-1587654780291-39c9404d746b?q=80&w=800&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1516627145497-ae6968895b74?q=80&w=800&auto=format&fit=crop'
+      'https://cdn.pixabay.com/photo/2022/10/28/03/31/children-7552235_1280.jpg?q=80&w=800&auto=format&fit=crop'
     ]
   },
   {
@@ -236,8 +236,8 @@ export const METHODS: Method[] = [
       }
     ],
     imageUrls: [
-      'https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=800&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1511379938547-c1f69419868d?q=80&w=800&auto=format&fit=crop',
+      'https://cdn.pixabay.com/photo/2023/08/21/08/36/children-8203962_1280.jpg?q=80&w=800&auto=format&fit=crop',
+      'https://cdn.pixabay.com/photo/2022/07/22/18/22/women-7338731_1280.jpg?q=80&w=800&auto=format&fit=crop',
       'https://images.unsplash.com/photo-1453738773917-9c3eff1db985?q=80&w=800&auto=format&fit=crop'
     ]
   },
@@ -280,8 +280,8 @@ export const METHODS: Method[] = [
       }
     ],
     imageUrls: [
-      'https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=800&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1460661419201-fd4cecdf8a8b?q=80&w=800&auto=format&fit=crop',
+      'https://cdn.pixabay.com/photo/2017/11/29/11/03/kids-2985782_1280.jpg?q=80&w=800&auto=format&fit=crop',
+      'https://cdn.pixabay.com/photo/2016/08/07/18/22/back-to-school-1576790_1280.jpg?q=80&w=800&auto=format&fit=crop',
       'https://images.unsplash.com/photo-1513364776144-60967b0f800f?q=80&w=800&auto=format&fit=crop'
     ]
   },
@@ -320,8 +320,8 @@ export const METHODS: Method[] = [
       }
     ],
     imageUrls: [
-      'https://images.unsplash.com/photo-1499856871958-5b9627545d1a?q=80&w=800&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1528605248644-14dd04022da1?q=80&w=800&auto=format&fit=crop',
+      'https://cdn.pixabay.com/photo/2016/11/21/16/54/hands-1846428_1280.jpg?q=80&w=800&auto=format&fit=crop',
+      'https://cdn.pixabay.com/photo/2017/11/12/22/50/exhibition-2944064_1280.jpg?q=80&w=800&auto=format&fit=crop',
       'https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?q=80&w=800&auto=format&fit=crop'
     ]
   },
@@ -360,8 +360,8 @@ export const METHODS: Method[] = [
       }
     ],
     imageUrls: [
-      'https://images.unsplash.com/photo-1518834107812-67b0b7c58434?q=80&w=800&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=800&auto=format&fit=crop',
+      'https://cdn.pixabay.com/photo/2017/01/14/10/10/dancing-1979143_1280.jpg?q=80&w=800&auto=format&fit=crop',
+      'https://cdn.pixabay.com/photo/2024/11/10/18/55/dancing-9188393_1280.jpg?q=80&w=800&auto=format&fit=crop',
       'https://images.unsplash.com/photo-1523821741446-edb2b68bb7a0?q=80&w=800&auto=format&fit=crop'
     ]
   },
@@ -404,9 +404,9 @@ export const METHODS: Method[] = [
       }
     ],
     imageUrls: [
-      'https://images.unsplash.com/photo-1503095396549-807759245b35?q=80&w=800&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1460881680858-30d872d5b530?q=80&w=800&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1516280440502-62f5431b9138?q=80&w=800&auto=format&fit=crop'
+      'https://cdn.pixabay.com/photo/2014/02/05/00/37/staging-258631_1280.jpg?q=80&w=800&auto=format&fit=crop',
+      'https://cdn.pixabay.com/photo/2014/11/05/11/56/dance-517682_1280.jpg?q=80&w=800&auto=format&fit=crop',
+      'https://cdn.pixabay.com/photo/2021/03/31/14/40/kids-6139657_1280.jpg?q=80&w=800&auto=format&fit=crop'
     ]
   },
   {
@@ -448,8 +448,8 @@ export const METHODS: Method[] = [
       }
     ],
     imageUrls: [
-      'https://images.unsplash.com/photo-1519681393784-d120267933ba?q=80&w=800&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1455390582262-044cdead2708?q=80&w=800&auto=format&fit=crop',
+      'https://cdn.pixabay.com/photo/2020/01/22/09/39/teaching-4784914_1280.jpg?q=80&w=800&auto=format&fit=crop',
+      'https://cdn.pixabay.com/photo/2020/11/10/21/00/boy-5731001_1280.jpg?q=80&w=800&auto=format&fit=crop',
       'https://images.unsplash.com/photo-1512820790803-83ca734da794?q=80&w=800&auto=format&fit=crop'
     ]
   },
@@ -484,8 +484,8 @@ export const METHODS: Method[] = [
       }
     ],
     imageUrls: [
-      'https://images.unsplash.com/photo-1494809610410-160faaed4de0?q=80&w=800&auto=format&fit=crop',
-      'https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?q=80&w=800&auto=format&fit=crop',
+      'https://cdn.pixabay.com/photo/2023/07/16/10/11/ai-generated-8130381_1280.jpg?q=80&w=800&auto=format&fit=crop',
+      'https://cdn.pixabay.com/photo/2018/10/04/13/06/couple-3723548_1280.jpg?q=80&w=800&auto=format&fit=crop',
       'https://images.unsplash.com/photo-1516383274235-5f42d6c6426d?q=80&w=800&auto=format&fit=crop'
     ]
   }
